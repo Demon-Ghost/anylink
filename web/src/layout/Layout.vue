@@ -20,10 +20,10 @@
       </el-main>
       <el-footer>
         <div>
-          <el-button size="mini" @click="goUrl('https://gitee.com/bjdgyc/anylink')">
-            Powered by AnyLink
+          <el-button size="mini" @click="goUrl('https://www.wwuyou.com')">
+            Powered by WeiWuYou
           </el-button>
-          企业级远程办公系统 AGPL-3.0 ⓒ 2020-present
+          维无忧远程办公系统 ⓒ 2024-present
         </div>
       </el-footer>
     </el-container>
