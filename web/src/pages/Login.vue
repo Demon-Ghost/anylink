@@ -3,7 +3,7 @@
   <div class="login">
     <el-card style="width: 550px;">
 
-      <div class="issuer">AnyLink SSL VPN管理后台</div>
+      <div class="issuer">维无忧远程办公系统管理后台</div>
 
       <el-form :model="ruleForm" status-icon :rules="rules" ref="ruleForm" label-width="100px" class="ruleForm">
         <el-form-item label="管理用户名" prop="admin_user">
